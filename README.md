@@ -17,7 +17,7 @@ A high-performance Counter-Strike 2 match auto-accept utility built with C++ and
 ## 📋 Requirements
 To compile or run this project, you need:
 * [cite_start]**Visual Studio 2022** with "Desktop development with C++" installed. [cite: 2]
-* [cite_start]**OpenCV 4.12.0**: The project is configured to look for OpenCV at `C:\CPP\opencv\build\`. [cite: 6, 7]
+* [cite_start]**OpenCV 4.12.0**: The project is configured to look for OpenCV at `Your openCV path : \opencv\build\`. [cite: 6, 7]
 * **CS2 Settings**: Must be running in Windowed or Non-Bordered Window mode for screen capture to function.
 
 ## ⚙️ Project Structure
