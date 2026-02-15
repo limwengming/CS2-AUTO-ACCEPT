@@ -1,0 +1,17 @@
+# Visual Studio files
+.vs/
+out/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.aps
+*.pdb
+*.ipch
+*.log
+*.obj
+*.tlog
+*.lastbuildstate
+*.recipe
+*.ilk
